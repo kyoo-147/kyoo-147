@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyo-DaviheiSion@minkkyns</h1>
 <h3 align="center">(●'◡'●)I'm 19. I'm just an ordinary person, living in a pale world. If the earth could perish, perhaps a part of me would find peace. But I'm passionate about things called computers, space, science, engines, robots, AI...etc. I want to create a world, an era, an environment where humans and AI can live under the same sky. And I want to build a house for my parents too. Well, my idol is Elon Musk (❁´ ` ❁)My dream is to be able to help people who are blind, disabled or have difficulty with technology to be able to apply AI to their lives so that their lives can be better. (I think VINFAST, TESLA is amazing)(❁´ ◡` ❁)</h3>
 <!-- <img alt="banner" style="width:100vw" src="https://media0.giphy.com/media/0ZWzpdd0wUhhGZ7gqe/giphy.gif?cid=ecf05e47bgm4vsq4x53qo5bo399fexjaboes9tb70rm2c3hb&ep=v1_gifs_related&rid=giphy.gif&ct=g"> -->
- <!-- <img alt="banner" style="width:100vw" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">  
+ <!-- <img alt="banner" style="width:100vw" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">  -->
 
  <img alt="banner" style="width:100vw" src="https://i.pinimg.com/originals/08/05/3f/08053f69eb1664dfe45d3b08257543b4.gif">
 
@@ -43,5 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyoo-147&show_icons=true&locale=en" alt="kyoo-147" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyoo-147&" alt="kyoo-147" /></p>
-
 
