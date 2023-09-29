@@ -19,7 +19,7 @@
 
 - 🤝 Upwork [My Upwork url:](https://www.upwork.com/freelancers/~011ca77d21dc10889d)
 
-- 👨‍💻 All of my info(maybe(❁´ ◡` ❁)) [https://sites.google.com/view/bui-mih-cng/trang-ch%E1%BB%A7](https://sites.google.com/view/bui-mih-cng/trang-ch%E1%BB%A7)
+- 👨‍💻 All of my info(maybe(❁´ ◡` ❁))
 
 - 📝 Gmail: [ngoctuanvinh1332@gmail.com](ngoctuanvinh1332@gmail.com)
 
