@@ -11,6 +11,7 @@
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=kyoo-147&label=Users%20&color=0e75b6&style=flat" alt="kyoo-147" /> </p> -->
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="buiminhcuong" data-color="#40DCA5" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyoo-147" alt="kyoo-147" /></a> </p>
 
@@ -44,7 +45,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyoo-147&show_icons=true&locale=en&layout=compact" alt="kyoo-147" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyoo-147&show_icons=true&locale=en" alt="kyoo-147" /></p>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="buiminhcuong" data-color="#40DCA5" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyoo-147&" alt="kyoo-147" /></p>-->
 
