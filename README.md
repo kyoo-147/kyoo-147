@@ -16,11 +16,11 @@
 
 <p align="left"> <a href="https://twitter.com/@mih_cuog" target="blank"><img src="https://img.shields.io/twitter/follow/@mih_cuog?logo=twitter&style=for-the-badge" alt="@mih_cuog" /></a> </p>
 
-- 🔭 Fully Self-Driving Vehicle - ([NaVinAI-FSD](https://www.youtube.com/watch?v=HUi0I8FxMtE)
+- 🔭 Fully Self-Driving Vehicle - [NaVinAI-FSD](https://www.youtube.com/watch?v=HUi0I8FxMtE)
 
-- 🤝 ([Fiver](https://www.fiverr.com/macdaiqua147?up_rollout=true)
+- 🤝 [Fiver](https://www.fiverr.com/macdaiqua147?up_rollout=true)
 
-- 🤝 ([Upwork](https://www.upwork.com/freelancers/~011ca77d21dc10889d)
+- 🤝 [Upwork](https://www.upwork.com/freelancers/~011ca77d21dc10889d)
 
 - 👨‍💻 All of my info(maybe(❁´ ◡` ❁))
 
