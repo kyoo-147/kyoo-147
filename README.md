@@ -16,19 +16,19 @@
 
 <p align="left"> <a href="https://twitter.com/@mih_cuog" target="blank"><img src="https://img.shields.io/twitter/follow/@mih_cuog?logo=twitter&style=for-the-badge" alt="@mih_cuog" /></a> </p>
 
-- 🔭 I’m currently working on [AI-Lab-ADAS-Project()](will update)
+- 🔭 Fully Self-Driving Vehicle - ([NaVinAI-FSD](https://www.youtube.com/watch?v=HUi0I8FxMtE))
 
-- 🤝 Fiver [My Fiver url:](https://www.fiverr.com/macdaiqua147?up_rollout=true)
+- 🤝 ([Fiver](https://www.fiverr.com/macdaiqua147?up_rollout=true))
 
-- 🤝 Upwork [My Upwork url:](https://www.upwork.com/freelancers/~011ca77d21dc10889d)
+- 🤝 ([Upwork](https://www.upwork.com/freelancers/~011ca77d21dc10889d))
 
 - 👨‍💻 All of my info(maybe(❁´ ◡` ❁))
 
-- 📝 Gmail: [ngoctuanvinh1332@gmail.com](ngoctuanvinh1332@gmail.com)
+- 📝 Gmail: ([ngoctuanvinh1332@gmail.com](ngoctuanvinh1332@gmail.com))
 
-- 👯 Dribble **https://dribbble.com/macdaiqua147**
+- 👯 ([Dribble](https://dribbble.com/macdaiqua147))
 
-- 📝 Gmail: [baemyungkang2806@gmail.com](baemyungkang2806@gmail.com)
+- 📝 ([Gmail](baemyungkang2806@gmail.com))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
