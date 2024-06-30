@@ -34,7 +34,7 @@
 <a href="https://twitter.com/@mih_cuog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mih_cuog" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/minh-cuong-bui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/minh-cuong-bui/" height="30" width="40" /></a>
 <a href="https://instagram.com/1332_kyojunehieight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1332_kyojunehieight" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kyoodavision1332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kyoodavision1332" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0yAbKYFWEa7PUqxDQA8m7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kyoodavision1332" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
