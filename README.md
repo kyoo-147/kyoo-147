@@ -19,7 +19,7 @@
 
 - 🔭 Fully Self-Driving Vehicle - [NaVinAI-FSD](https://www.youtube.com/watch?v=HUi0I8FxMtE)
 
-- 🤝 [Fiver](https://www.fiverr.com/macdaiqua147?up_rollout=true)
+- 🤝 [Fiver](https://www.fiverr.com/macdaiqua147?public_mode=true)
 
 - 🤝 [Upwork](https://www.upwork.com/freelancers/~011ca77d21dc10889d)
 
