@@ -46,6 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyoo-147&show_icons=true&locale=en" alt="kyoo-147" /></p>
 
+![Wall_Com](https://github.com/user-attachments/assets/e1d3e263-cb42-4f33-bd84-b83923589382)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyoo-147&" alt="kyoo-147" /></p>-->
 
