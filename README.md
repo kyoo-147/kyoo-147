@@ -10,7 +10,7 @@
 
 I am still alive. I'm just an ordinary person living in a boring world, but I am passionate about computers, space, science, engines, robots, artificial intelligence, books, and the future of human-machine collaboration.
 
-I want to create a world, an era, and an environment where humans and artificial intelligence can live under the same sky. My dream is to help blind people, disabled people, autistic children, and anyone struggling with technology by applying artificial intelligence to make their lives better.
+I want to create a world, an era, and an environment where humans and artificial intelligence can live under the same sky. My dream is to help blind people, disabled people, autistic children, and anyone struggling with technology by applying artificial intelligence to make their lives better. (❁´ ◡` ❁)
 
 I build AI-powered products that connect research, software engineering, and real-world operation. My work focuses on agentic AI systems, document intelligence, OCR, computer vision, workflow automation, edge AI, and practical full-stack platforms.
 
