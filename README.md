@@ -1,4 +1,4 @@
-# Hi, I'm Michael! 👋
+# Hi, I'm Michael! 👋 - Founder of NavinAIF Technology
 
 ![FOLLOW YOUR DREAM](https://github.com/kyoo-147/kyoo-147/assets/126655047/450cb1ee-3b7f-4e40-948c-023b054b3c89)
 
