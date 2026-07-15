@@ -1,5 +1,7 @@
 # Michael / Bui Minh Cuong
 
+![FOLLOW YOUR DREAM](https://github.com/kyoo-147/kyoo-147/assets/126655047/450cb1ee-3b7f-4e40-948c-023b054b3c89)
+
 **AI Product Builder | Full-stack Engineer | Research-oriented Founder**
 
 I build AI-powered products that connect research, software engineering, and real-world operation. My work focuses on agentic AI systems, document intelligence, OCR, computer vision, workflow automation, edge AI, and practical full-stack platforms.
@@ -7,6 +9,8 @@ I build AI-powered products that connect research, software engineering, and rea
 I am currently building and experimenting with products around AI agents, enterprise workflow control, edge translation, document risk analysis, autonomous driving research, and AI systems for education and accessibility.
 
 [Portfolio](https://michaeltechs.xyz) | [LinkedIn](https://www.linkedin.com/in/minh-cuong-bui/) | [X](https://x.com/mih_cuog) | [Email](mailto:navinservicesnv000@gmail.com)
+
+<img alt="banner" width="100%" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 ---
 
@@ -71,6 +75,8 @@ ROS, catkin workspace, Raspberry Pi, Jetson Nano, embedded optimization, camera 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kyoo-147&show_icons=true&theme=default&hide_border=true" alt="Michael GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoo-147&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
+
+![Wall_Com](https://github.com/user-attachments/assets/e1d3e263-cb42-4f33-bd84-b83923589382)
 
 ---
 
