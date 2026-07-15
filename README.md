@@ -1,52 +1,82 @@
-![“FOLLOW YOUR DREAM”](https://github.com/kyoo-147/kyoo-147/assets/126655047/450cb1ee-3b7f-4e40-948c-023b054b3c89)
-<h1 align="center">Hi 👋, I'm Michael - Founder of NaVin AIF Technology</h1>
-<h3 align="center">(●'◡'●) I am still alive. I'm just an ordinary person living in a boring world. But I am passionate about things like computers, space, science, engines, robots, artificial intelligence, books, etc. I want to create a world, an era, an environment where humans and artificial intelligence can live under the same sky. And I also want to build a house for my parents. My dream is to help the blind, the disabled, autistic children, or those struggling with technology by applying artificial intelligence to their lives to make their lives better. (❁´ ◡` ❁)</h3>
-<!-- <img alt="banner" style="width:100vw" src="https://media0.giphy.com/media/0ZWzpdd0wUhhGZ7gqe/giphy.gif?cid=ecf05e47bgm4vsq4x53qo5bo399fexjaboes9tb70rm2c3hb&ep=v1_gifs_related&rid=giphy.gif&ct=g"> -->
- <img alt="banner" style="width:100vw" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"> 
+# Michael / Bui Minh Cuong
 
- <!-- <img alt="banner" style="width:100vw" src="https://i.pinimg.com/originals/08/05/3f/08053f69eb1664dfe45d3b08257543b4.gif">  -->
+**AI Product Builder | Full-stack Engineer | Research-oriented Founder**
 
-  <!-- <img alt="banner" style="width:100vw" src="https://i.pinimg.com/originals/29/3e/e2/293ee2e9c3d5697154aba7dbb255e64d.gif"> -->
-<a href="https://www.buymeacoffee.com/buiminhcuong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+I build AI-powered products that connect research, software engineering, and real-world operation. My work focuses on agentic AI systems, document intelligence, OCR, computer vision, workflow automation, edge AI, and practical full-stack platforms.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyoo-147&label=Profile%20views&color=0e75b6&style=flat" alt="kyoo-147" /> </p>
+I am currently building and experimenting with products around AI agents, enterprise workflow control, edge translation, document risk analysis, autonomous driving research, and AI systems for education and accessibility.
 
-<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=kyoo-147&label=Users%20&color=0e75b6&style=flat" alt="kyoo-147" /> </p> -->
+[Portfolio](https://michaeltechs.xyz) | [LinkedIn](https://www.linkedin.com/in/minh-cuong-bui/) | [X](https://x.com/mih_cuog) | [Email](mailto:navinservicesnv000@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyoo-147" alt="kyoo-147" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/@mih_cuog" target="blank"><img src="https://img.shields.io/twitter/follow/@mih_cuog?logo=twitter&style=for-the-badge" alt="@mih_cuog" /></a> </p>
+## Current Focus
 
-- 🔭 Fully Self-Driving Vehicle - [NaVinAI-FSD](https://www.youtube.com/watch?v=HUi0I8FxMtE)
+- Building commercial AI products from prototype to pilot-ready systems.
+- Designing agentic workflows with routing, approval, auditability, repair loops, and human-in-the-loop control.
+- Applying OCR, RAG, computer vision, and LLM workflows to document, operation, and automation problems.
+- Optimizing AI and software systems for edge devices, embedded hardware, VPS, and production-like environments.
+- Turning research projects into reusable tools, demos, documentation, and learning resources for engineering communities.
 
-- 🤝 [Fiver](https://www.fiverr.com/macdaiqua147?public_mode=true)
+---
 
-- 🤝 [Upwork](https://www.upwork.com/freelancers/~011ca77d21dc10889d?mp_source=share)
+## Selected Projects
 
-- 👨‍💻 All of my info(maybe(❁´ ◡` ❁))
+### [MoYi Edge Translation](https://michaeltechs.xyz/work/moyi-edge-translation/)
+Personalized edge AI translation runtime for multilingual operations, designed around local-first inference, terminology control, safety checks, and real-time workflow support.
 
-- 📝 [Gmail](ngoctuanvinh1332@gmail.com)
+### [Dossier](https://michaeltechs.xyz/work/dossier/)
+Agentic document intelligence platform for OCR, invoice/document review, risk detection, provider routing, repair loops, and structured document workflow automation.
 
-- 📝 [Gmail](navinservicesnv000@gmail.com)
+### [Autopilot & FSD - BFMC](https://michaeltechs.xyz/work/autopilot-and-fsd/)
+ROS catkin autonomous driving stack for Bosch Future Mobility Challenge 2024/2025, covering lane detection, ADAS simulation, path planning, embedded optimization, and vehicle control.
 
-- 👯 [Dribble](https://dribbble.com/macdaiqua147)
+### [WorkWise](https://github.com/kyoo-147/WorkWise)
+AI control layer for company operations, routing high-risk operational requests through parsers, rules, small models, strong models, and human approval to reduce cost while preserving governance.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@mih_cuog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mih_cuog" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/minh-cuong-bui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/minh-cuong-bui/" height="30" width="40" /></a>
-<a href="https://instagram.com/1332_kyojunehieight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1332_kyojunehieight" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC0yAbKYFWEa7PUqxDQA8m7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kyoodavision1332" height="30" width="40" /></a>
+### [Snow AI Companion](https://github.com/kyoo-147/agentkid_snow)
+AI companion research project focused on safe child-facing interaction, memory design, supervision, education support, and responsible AI product experience.
+
+More work: [michaeltechs.xyz/work](https://michaeltechs.xyz/work)
+
+---
+
+## Technical Scope
+
+**AI / Data**
+
+Python, OpenCV, OCR, RAG, LLM workflows, agentic systems, model routing, computer vision, data preprocessing, evaluation, safety checks, and human-in-the-loop review.
+
+**Software**
+
+TypeScript, JavaScript, React, Next.js, Node.js, REST API, PostgreSQL, MongoDB, SQLite, Docker, VPS deployment, GitHub workflows, and full-stack product architecture.
+
+**Edge / Robotics**
+
+ROS, catkin workspace, Raspberry Pi, Jetson Nano, embedded optimization, camera pipelines, serial communication, sensor integration, control logic, and real-time constraints.
+
+---
+
+## Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,postgres,mongodb,docker,linux,git,github,opencv,pytorch,tensorflow,arduino,raspberrypi,figma,aws,gcp,azure" alt="Tools and technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyoo-147&show_icons=true&locale=en&layout=compact" alt="kyoo-147" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyoo-147&show_icons=true&locale=en" alt="kyoo-147" /></p>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kyoo-147&show_icons=true&theme=default&hide_border=true" alt="Michael GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoo-147&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
 
-![Wall_Com](https://github.com/user-attachments/assets/e1d3e263-cb42-4f33-bd84-b83923589382)
+---
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyoo-147&" alt="kyoo-147" /></p>-->
+## Contact
 
+- Website: [michaeltechs.xyz](https://michaeltechs.xyz)
+- Email: [navinservicesnv000@gmail.com](mailto:navinservicesnv000@gmail.com)
+- LinkedIn: [minh-cuong-bui](https://www.linkedin.com/in/minh-cuong-bui/)
+- X: [@mih_cuog](https://x.com/mih_cuog)
