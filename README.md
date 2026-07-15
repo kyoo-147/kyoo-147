@@ -1,8 +1,16 @@
-# Michael / Bui Minh Cuong
+# Hi, I'm Michael! 👋
 
 ![FOLLOW YOUR DREAM](https://github.com/kyoo-147/kyoo-147/assets/126655047/450cb1ee-3b7f-4e40-948c-023b054b3c89)
 
 **AI Product Builder | Full-stack Engineer | Research-oriented Founder**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kyoo-147&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+I am still alive. I'm just an ordinary person living in a boring world, but I am passionate about computers, space, science, engines, robots, artificial intelligence, books, and the future of human-machine collaboration.
+
+I want to create a world, an era, and an environment where humans and artificial intelligence can live under the same sky. My dream is to help blind people, disabled people, autistic children, and anyone struggling with technology by applying artificial intelligence to make their lives better.
 
 I build AI-powered products that connect research, software engineering, and real-world operation. My work focuses on agentic AI systems, document intelligence, OCR, computer vision, workflow automation, edge AI, and practical full-stack platforms.
 
@@ -65,15 +73,6 @@ ROS, catkin workspace, Raspberry Pi, Jetson Nano, embedded optimization, camera 
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,postgres,mongodb,docker,linux,git,github,opencv,pytorch,tensorflow,arduino,raspberrypi,figma,aws,gcp,azure" alt="Tools and technologies" />
-</p>
-
----
-
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kyoo-147&show_icons=true&theme=default&hide_border=true" alt="Michael GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoo-147&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
 ![Wall_Com](https://github.com/user-attachments/assets/e1d3e263-cb42-4f33-bd84-b83923589382)
