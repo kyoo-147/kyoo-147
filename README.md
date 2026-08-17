@@ -34,7 +34,7 @@ I am currently building and experimenting with products around AI agents, enterp
 
 ## Selected Projects
 
-### [MoYi Edge Translation](https://michaeltechs.xyz/work/moyi-edge-translation/)
+### [MoYi T2.5](https://michaeltechs.xyz/work/moyi-edge-translation/)
 Personalized edge AI translation runtime for multilingual operations, designed around local-first inference, terminology control, safety checks, and real-time workflow support.
 
 ### [Dossier](https://michaeltechs.xyz/work/dossier/)
