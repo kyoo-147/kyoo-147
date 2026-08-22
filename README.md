@@ -2,7 +2,7 @@
 
 ![FOLLOW YOUR DREAM](https://github.com/kyoo-147/kyoo-147/assets/126655047/450cb1ee-3b7f-4e40-948c-023b054b3c89)
 
-**AI Product Builder | Full-stack Engineer | Research-oriented Founder**
+**AI Research & Product Engineer | Machine Learning | Deep Learning | LLMs | Computer Vision | AI Agents | Embedded AI**
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kyoo-147&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
