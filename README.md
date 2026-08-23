@@ -26,11 +26,12 @@ Currently, we are developing and experimenting with pioneering foundation and fr
 
 ## Current Focus
 
-- Building commercial AI products from prototype to pilot-ready systems.
-- Designing agentic workflows with routing, approval, auditability, repair loops, and human-in-the-loop control.
-- Applying OCR, RAG, computer vision, and LLM workflows to document, operation, and automation problems.
-- Optimizing AI and software systems for edge devices, embedded hardware, VPS, and production-like environments.
-- Turning research projects into reusable tools, demos, documentation, and learning resources for engineering communities.
+- Developing and experimenting with foundation and frontier AI models across language, speech, and vision.
+- Training, fine-tuning, adapting, evaluating, and improving AI models for real-world applications.
+- Building agentic AI systems with reasoning, routing, tool use, memory, approval, and human-in-the-loop control.
+- Researching and applying LLMs, speech & audio AI, computer vision, OCR, multimodal AI, and Edge AI.
+- Optimizing models and intelligent systems for edge devices, embedded hardware, and production environments.
+- Turning AI research into practical models, systems, products, open-source tools, and reusable research resources.
 
 ---
 
