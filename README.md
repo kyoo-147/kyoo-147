@@ -16,7 +16,7 @@ I research and build AI systems and products, with a focus on training, fine-tun
 
 I enjoy working across the entire AI lifecycle — from exploring ideas and developing models to optimizing, deploying, and integrating them into useful real-world systems.
 
-Currently, we are developing and experimenting with foundation and frontier AI models across language, speech, and vision, with the ambition of earning our place on the global AI map.
+Currently, we are developing and experimenting with pioneering foundation and frontier AI models across language, speech, and vision, with the ambition of making our mark on the global AI map.
 
 [Portfolio](https://michaeltechs.xyz) | [LinkedIn](https://www.linkedin.com/in/minh-cuong-bui/) | [X](https://x.com/mih_cuog) | [Email](mailto:navinservicesnv000@gmail.com)
 
