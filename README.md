@@ -8,13 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=kyoo-147&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-I am still alive. I'm just an ordinary person living in a boring world, but I am passionate about computers, space, science, engines, robots, artificial intelligence, books, and the future of human-machine collaboration.
+I am still alive. I'm just an ordinary person living and working in an ordinary world, but I am deeply passionate about computers, space, science, engines, robots, artificial intelligence, books, and the future of human-machine collaboration.
 
-I want to create a world, an era, and an environment where humans and artificial intelligence can live under the same sky. My dream is to help blind people, disabled people, autistic children, and anyone struggling with technology by applying artificial intelligence to make their lives better. (❁´ ◡` ❁)
+I want to help shape a world, an era, and an environment where humans and artificial intelligence can coexist under the same sky. My dream is to support blind people, people with disabilities, people on the autism spectrum, and anyone facing barriers to technology by using AI to make their lives better. (❁´ ◡` ❁)
 
-I build AI-powered products that connect research, software engineering, and real-world operation. My work focuses on agentic AI systems, document intelligence, OCR, computer vision, workflow automation, edge AI, and practical full-stack platforms.
+I research and build AI systems and products, with a focus on training, fine-tuning, adapting, and improving AI models. My work spans agentic AI, OCR, computer vision, speech & audio AI, workflow automation, Edge AI, intelligent systems, and turning research into practical products that create real-world value.
 
-I am currently building and experimenting with products around AI agents, enterprise workflow control, edge translation, document risk analysis, autonomous driving research, and AI systems for education and accessibility.
+I enjoy working across the entire AI lifecycle — from exploring ideas and developing models to optimizing, deploying, and integrating them into useful real-world systems.
+
+Currently, we are developing and experimenting with foundation and frontier AI models across language, speech, and vision, with the ambition of earning our place on the global AI map.
 
 [Portfolio](https://michaeltechs.xyz) | [LinkedIn](https://www.linkedin.com/in/minh-cuong-bui/) | [X](https://x.com/mih_cuog) | [Email](mailto:navinservicesnv000@gmail.com)
 
