@@ -1,6 +1,12 @@
 # Hi, I'm Michael! 👋 - Founder of Navin Research
 
-![FOLLOW YOUR DREAM](https://github.com/kyoo-147/kyoo-147/assets/126655047/450cb1ee-3b7f-4e40-948c-023b054b3c89)
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/7d638959-3878-401b-b369-009e79444fcc"
+    alt="FOLLOW YOUR DREAM"
+    width="100%"
+  />
+</p>
 
 **AI Research & Product Engineer | Machine Learning | Deep Learning | LLMs | Computer Vision | AI Agents | Embedded AI**
 
