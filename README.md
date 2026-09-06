@@ -76,13 +76,13 @@ TypeScript, JavaScript, React, Next.js, Node.js, REST API, PostgreSQL, MongoDB, 
 
 ROS, catkin workspace, Raspberry Pi, Jetson Nano, embedded optimization, camera pipelines, serial communication, sensor integration, control logic, and real-time constraints.
 
----
-
+<!--
 ## Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,postgres,mongodb,docker,linux,git,github,opencv,pytorch,tensorflow,raspberrypi,figma,aws,gcp,azure,cpp,jenkins,kafka,rust,sklearn" alt="Tools and technologies" />
 </p>
+-->
 
 ![Wall_Com](https://github.com/user-attachments/assets/e1d3e263-cb42-4f33-bd84-b83923589382)
 
